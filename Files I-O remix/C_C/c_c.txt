@@ -1,0 +1,1 @@
+Se pueden contar cuantas palabras y cuantos caracteres existen en un texto.
